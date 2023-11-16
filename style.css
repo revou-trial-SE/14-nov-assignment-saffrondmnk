@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Agbalumo';
-    src: url(/assets/fonts/Agbalumo-Regular.ttf);
+    src: url(assets/fonts/Agbalumo-Regular.ttf);
 }
 
 @font-face {
     font-family: 'Orpheus';
-    src: url(/assets/fonts/Orpheus-Pro.ttf);
+    src: url(assets/fonts/Orpheus-Pro.ttf);
 }
 
 body {
