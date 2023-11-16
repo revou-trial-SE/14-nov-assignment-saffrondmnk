@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Agbalumo';
+    src: url(/assets/fonts/Agbalumo-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Orpheus';
+    src: url(/assets/fonts/Orpheus-Pro.ttf);
+}
+
+body {
+    font-family: 'orpheus';
+}
+
+
+.nav-logo {
+    font-family: 'Orpheus';
+    
+}
+
+.hero {
+    margin-top: 10em;
+}
+
+.carousel-item img {
+    height: 400px;
+    object-fit: cover;
+
+}
+
+.image-move {
+    transition: transform 0.3s ease-in-out;
+}
+
+.image-move:hover {
+    transform: scale(1.05)
+}
+
+.image-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.col-md-4 img {
+    height: 255px;
+    object-fit: cover;
+}
+
+.carousel-caption  {
+    text-shadow: 1px 1px 1px black;
+}
